@@ -27,11 +27,26 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Características  | CarlotaBraun  | 2060 Hostel  | Zero Barcelona  |
+|---|---|---|---|
+| Traducción a otro idioma disponible  | :heavy_check_mark: | :heavy_check_mark:  |  :heavy_multiplication_x: |  
+| Facilidad de lectura  |   |   |   |
+| WIfi|   |   |   | 
+| Habitacion solo para chicas |   |   |   |
+| Lavadora y Secadora |   |   |   |
+Recepciónn 24h |   |   |   |
+Spa / piscina |   |   |   |
+Guardaequipajes/Taquillas |   |   |   |
+Ecológico |   |   |   |
+Redes Sociales |   |   |   |
+Imagenes del hostel |   |   |   |
+Bar/Restaurante |   |   |   |
+FAQ |   |   |   |
+Pagina Web intuitiva |   |   |   |
+Infroma sobre protocolos COVID |   |   |   |
+Blog actualizado |   |   |   |
+| Reserva en web |   |   |   |
+| Cocina |   |   |   |
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
