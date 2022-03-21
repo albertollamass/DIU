@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
 Grupo: DIU2_nombreJA.  Curso: 2021/22 
-Updated: 8/3/2022
+Updated: 21/3/2022
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
