@@ -68,7 +68,7 @@ amigo/compañero de profesión.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> - Enlace al documento: https://github.com/albertollamass/DIU/blob/master/P1/Usability-review-template.xls
+>>> - Enlace al documento: https://github.com/albertollamass/DIU/blob/master/P1/Usability-review-template.xlsx
 >>> - Valoración final (numérica): 84/100 
 >>> - Comentario sobre la valoración: La web en general tiene buena usabilidad y permite que los usuarios realicen su reserva fácilmente aunque el nombre de dominio de la web debería de ser un poco más intuitivo y consideramos que los tiempos de carga de las páginas son muy altos y empeoran la experiencia del usuario.
 
