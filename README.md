@@ -52,22 +52,25 @@ Blog actualizado |   |   |   |
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+![luciaPersona](P1/photos/luciaPersona.png)
+![nachoPersona](P1/photos/nachoPersona.png)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Nacho encaja en el tipo de persona que podría alojarse en un hostel ya que es muy extrovertido, le encanta viajar, conocer gente nueva y compartir sus experiencias personales con sus seguidores. Lucía sin embargo, es un poco más introvertida y es otro tipo de cliente posible de un hostel, un grupo de amigas que busca pasárselo bien sin gastar mucho dinero en alojamiento.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+![luciaPersona](P1/photos/luciaJourney.png)
+![nachoPersona](P1/photos/nachoJourney.png)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Para Lucía decidimos que realizase una experiencia más común para personas como nosotros, que no conocíamos el concepto de hostel. Preguntando a amigos por sus experiencias y buscando información por Internet, enfrentándose ella misma a los problemas que pudiesen surgir. En el caso de Nacho, podemos ver que gracias a su agencia de social media ha obtenido un gran
+viaje calidad/precio. Antes de esto ha intentado organizarlo por su cuenta pero ha tenido varios problemas a pesar de su gran manejo en las nuevas tecnologías. Estos problemas han sido: la disponibilidad de hostels y la "traición" de su 
+amigo/compañero de profesión.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: https://github.com/albertollamass/DIU/blob/master/P1/Usability-review-template.xls
+>>> - Valoración final (numérica): 84/100 
+>>> - Comentario sobre la valoración: La web en general tiene buena usabilidad y permite que los usuarios realicen su reserva fácilmente aunque el nombre de dominio de la web debería de ser un poco más intuitivo y consideramos que los tiempos de carga de las páginas son muy altos y empeoran la experiencia del usuario.
 
 
 ## Paso 2. UX Design  

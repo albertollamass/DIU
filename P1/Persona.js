@@ -17,7 +17,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU2.nombreJA";
         $scope.Curso ="2021/22";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -88,7 +88,7 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Independizarse cuanto antes", "Crear una familia"],
+				Goals: ["Independizarse cuanto antes y mudarse a EEUU", "Llegar al millón de seguidores en Instagram", "Conseguir que sus padres dejen de ver ser influencer como un hobbie y que vean que es su trabajo"],
 				Frustrations: ["Le encanta viajar, pero tiene miedo a los aviones", "Confía demasiado rápido en personas que acaba de conocer y luego se lleva decepciones"],
 				Bio: "Nacido en Almería, pero por trabajo, sus padres se mudaron al año de nacer él a Manchester. A medida que fue haciéndose mayor, se aficionó a las redes sociales y a los videos de influencers travellers por lo que decidió intentar convertirse en uno de ellos. Actualmente es influencer y comparte práctimente toda su vida en las redes sociales. Le encanta viajar y conocer gente nueva ya sea por España o en cualquier parte del mundo",
 				Tech: [
@@ -98,9 +98,9 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos: "Quiere crear contenido para sus redes sociales de los mejores alojamientos(calidad/precio) en España",  
+                Contextos: "Su agencia le ha comentado que un nuevo tipo de hotel está apareciendo en España y pretende grabar un vídeo para Youtube promocionando los hostels",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 3 },
+					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 5 },
 					{ Name: "Recomendaciones & sugerencias", Value: 4 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }

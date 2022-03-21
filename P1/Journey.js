@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.nombreJA";
+		$scope.Grupo_ID ="DIU2.nombreJA";
         $scope.Curso ="2021/22";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -34,7 +34,7 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Lucía",
+				Name: "Lucía Rodríguez",
                 Photo: "lucia.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
@@ -96,50 +96,50 @@ angular.module("angular", [])
                 Photo: "nacho.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere visitar una ciudad emblemática de España y compartirlo con sus followers",
-                touch1: "móvil(instagram y calendario)",
+                goal1: "Quiere grabar un nuevo vídeo en España y le apetece visitar el sur de España ya que lleva mucho tiempo sin ir",
+                touch1: "Móvil(instagram y calendario)",
                 feel1: "5",
-                con1: "Mirar que fecha no le coincide con ninguna reunión ni ningún otro proyecto",
+                con1: "Mirar en que fechas podría ir a visitar el sur de España sin que le coincida con reuniones u otros proyectos",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca información en Internet para alojarse en un hostel",
+                goal2: "Busca información en Internet e informarse sobre los hostels y el tipo de servicio que ofrecen",
                 touch2: "Ordenador",
                 feel2: "3",
-                con2: "La mayoría de los hostels tienen su aforo al máximo",
+                con2: "Para simular la experiencia de un usuario real de un hostel, planea él mismo su viaje sin ayuda de su agencia personal, y observa que, en las fechas en las que le viene bien ir, hay alta ocupación",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Otro amigo influencer, que tenía planeado irse con él, se raja y lo deja tirado",
-                touch3: "móvil (whatsApp)",
+                goal3: "Planea irse con otro influencer y hacer el vídeo juntos, pero su amigo no puede asistir en la misma fecha que él",
+                touch3: "Móvil (whatsApp)",
                 feel3: "2",
-                con3: "Se ralla y piensa que su amigo le ha traicionado",
+                con3: "Se enfada ya que es más complicado grabar el vídeo solo y piensa en cancelar el viaje",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Su agencia de social media le envia ofertas de viajes y las mira detenidamente",
-                touch4: "móvil (llamada)",
+                goal4: "Su agencia de social media insiste en que realice el viaje y le envía más información de experiencias de usuarios en hostels del mundo",
+                touch4: "Móvil (llamada), Ordenador",
                 feel4: "3",
-                con4: "Tiene que alquilar un coche para moverse por la ciudad porque el suyo está en el taller",
+                con4: "Sigue sin estar del todo contento por tener que realizar sólo el viaje debido a su miedo a los aviones pero decide seguir adelante",
                 ima4: "cartoon-phoning.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Selecciona tres ciudades con hostels a buenos precios",
-                touch5: "móvil (telegram)",
-                feel5: "5",
-                con5: "Su agencia le dice que le paga todo el viaje",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Busca en diferentes planes para hacer en Granada, así como hostels para hospedarse",
+                touch5: "Ordenador",
+                feel5: "4",
+                con5: "Observa que al coincidir su tiempo de estancia con Semana Santa, los precios son más elevados pero su agencia contacta con él y le comenta que el Hostel Carlota Braun le ofrece hospedarse gratuitamente a cambio de una promoción en sus redes sociales",
+                ima5: "cartoon-PCtyping.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Hace la reserva y se lo comenta a sus followers a través de las RRSS ",
-                touch6: "móvil (instagram, tiktok y twitter)",
-                feel6: "4",
-                con6: "Se acuerda de su pánico a los aviones, pero desconecta tomándose algo con sus amigos",
+                goal6: "Nacho hace la reserva y se lo comenta a sus followers a través de las RRSS",
+                touch6: "Móvil (instagram, tiktok, twitter, youtube)",
+                feel6: "5",
+                con6: "Feliz por haber realizado la reserva fácil y correctamente, Nacho llama a su familia que vive en Almería y les dice que cuando acabe su visita a Granada, iría a verlos tras muchos años",
                 ima6: "cartoon-resting.png",
                 
                 
