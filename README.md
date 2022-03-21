@@ -27,28 +27,28 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-| Características  | CarlotaBraun  | 2060 Hostel  | Zero Barcelona  |
+| Características de la página web y el hostel  | CarlotaBraun  | 2060 Hostel  | Zero Barcelona  |
 |---|---|---|---|
-| Traducción a otro idioma disponible  | :heavy_check_mark: | :heavy_check_mark:  |  :heavy_multiplication_x: |  
-| Facilidad de lectura  |   |   |   |
-| WIfi|   |   |   | 
-| Habitacion solo para chicas |   |   |   |
-| Lavadora y Secadora |   |   |   |
-Recepciónn 24h |   |   |   |
-Spa / piscina |   |   |   |
-Guardaequipajes/Taquillas |   |   |   |
-Ecológico |   |   |   |
-Redes Sociales |   |   |   |
-Imagenes del hostel |   |   |   |
-Bar/Restaurante |   |   |   |
-FAQ |   |   |   |
-Pagina Web intuitiva |   |   |   |
-Infroma sobre protocolos COVID |   |   |   |
-Blog actualizado |   |   |   |
-| Reserva en web |   |   |   |
-| Cocina |   |   |   |
+| Traducción a otro idioma disponible  | Sí, además se puede traducir a más de un idioma | Sí  | Sólo está en inglés |  
+| Facilidad de lectura  | Cuesta leer el texto de la portada pero el resto se lee bien | Sí | Sí  |
+| Redes Sociales |  Sí | Sí | Sí |
+| Imágenes del hostel | Sólo de habitaciones  | Sí  |  Sí |
+| FAQ |  Sí, además proporciona un número de teléfono para enviar un Whatsapp | No  | Sí  |
+| Pagina Web intuitiva |  Sí | Sí  |  Sí |
+| Informa sobre protocolos COVID | No  | No  | Sí  |
+| Blog actualizado | Sí | No  | No |
+| Reserva en web | Sí, en página externa | Sí, en la propia web del hostel  |  Sí, en la propia web del hostel |
+| Wifi|  Sí | Sí  | Sí  | 
+| Habitacion solo para chicas | Sí  | No, sólo habitaciones mixtas  | Sí  |
+| Lavadora y Secadora | Sí | Sí  | Sí  |
+| Recepción 24h | No informa si es 24h  | No informa si es 24h  | Sí  |
+| Guardaequipajes / Taquillas | Sí  | Sí  |  Sí |
+| Ecológico |  No informa | Sí  |  No informa |
+| Bar/Restaurante | MusicBar  | RoofBar  | Café Bar  |
+| Cocina | No  | Sí  | Sí  |
+| Precio más barato por noche | 12€ en habitación de 6 personas  | 34€ en habitación de 12 personas  | 15€ en habitación de 10 personas |
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Hemos analizado dos opciones con mejor valoración que Carlota Braun Hostel para ver si había mucha diferencia entre ellos. Como podemos ver, Carlota Braun no se diferencia de los otros hostels con mejor valoración ya que dispone de los mismos servicios por un precio mucho más asequible en una habitación con menos personas. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
