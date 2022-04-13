@@ -4,12 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels)
 Grupo: DIU2_nombreJA.  Curso: 2021/22 
 Updated: 21/3/2022
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: GroupBar Granada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Propuesta de aplicación de bares y restaurantes que permite a los usuarios crear grupos para asistir a dichos bares con gente afín a los eventos que se realizan en ellos con el fin de variar del tapeo típico granadino.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -79,8 +78,7 @@ amigo/compañero de profesión.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+A partir de lo que se ha visto en la práctica anterior podemos hacernos a la idea de retroalimentaciones que pueden ayudar a crear una nueva propuesta de app.
 
 
  Interesante | Críticas     
@@ -88,12 +86,7 @@ amigo/compañero de profesión.
   Preguntas | Nuevas ideas
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
+La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica típica de Granada. Proponemos una aplicación que de a los turistas y a las personas locales de Granada un plan diferente a la hora de salir a comer o cenar. Tras investigar, la mayoría de residentes siempre suelen salir por Granada a tapear y se mueven por los mismos 3 o 4 bares. Por ello, nuestra aplicación intentará cambiar este comportamiento. Los dueños de los bares podrán registrar su bar y añadir los eventos que tendrán lugar cada día, permitiendo a los usuarios visualizar fácilmente dichos eventos junto al nombre del bar y un enlace al menú. Además, los usuarios (clientes) podrán realizar grupos en la aplicación permitiendo conocer gente y reunirse en el bar que se desee. Se tratará de mostrar en la aplicación bares y restaurantes con una propuesta tanto cultural como gastronómica atractiva para los usuarios.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
