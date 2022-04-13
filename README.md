@@ -97,7 +97,7 @@ amigo/compañero de profesión.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![scopeCanvas](P2/scopecanvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
