@@ -111,7 +111,7 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
+![iniciosesion](P2/inicio-sesion.png)
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
