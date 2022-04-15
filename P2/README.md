@@ -23,7 +23,6 @@
 
 
 ### Prototipo Lo-FI Wireframe 
-![iniciosesion](inicio-sesion.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
