@@ -112,6 +112,13 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 ![iniciosesion](P2/inicio-sesion.png)
+![paginaprincipal](P2/pag-principal.png)
+![bar](P2/bar.png)
+![categorias](P2/categorias.png)
+![grupos](P2/grupos.png)
+![crear_editar-grupo](P2/crear_editar-grupo.png)
+![perfil](P2/perfil.png)
+![configuracion](P2/configuracion.png)
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
