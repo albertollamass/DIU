@@ -103,15 +103,13 @@ La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+![userMap](P2/userMap.png)
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
+ 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
+ 
 
 Término | Significado     
 | ------------- | -------
@@ -120,16 +118,36 @@ Término | Significado
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-![iniciosesion](P2/inicio-sesion.png)
-![paginaprincipal](P2/pag-principal.png)
-![bar](P2/bar.png)
-![categorias](P2/categorias.png)
-![grupos](P2/grupos.png)
-![crear_editar-grupo](P2/crear_editar-grupo.png)
-![perfil](P2/perfil.png)
-![configuracion](P2/configuracion.png)
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+## INICIO DE SESIÓN
+![inicioSesion](P2/inicio-sesion.png)
 
+## PÁGINA PRINCIPAL
+![pagPrincipal](P2/pag-principal.png)
+
+## BAR
+![bar](P2/bar.png)
+
+### Más información
+![masinfo](P2/mas-info-evento.png)
+
+### Reseña y valoraciones
+![reseña](P2/reseña.png)
+
+## CATEGORÍAS / BÚSQUEDA
+![catPrinc](P2/categoria-principal.png)
+![cat](P2/categoria.png)
+
+## GRUPOS
+![gruposPag](P2/pag-grupos.png)
+![grupos](P2/grupos-princ.png)
+![gruposcrear](P2/crear-editar-grupo.png)
+
+## PERFIL
+![registrarBar](P2/register-bar.png)
+![editarBar](P2/edit-bar.png)
+![addEvento](P2/add-evento.png)
+
+### Configuración
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
