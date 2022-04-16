@@ -148,6 +148,7 @@ La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica
 ![addEvento](P2/add-evento.png)
 
 ### Configuración
+![configuracion](P2/configuracion.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
