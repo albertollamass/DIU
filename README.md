@@ -142,6 +142,7 @@ La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica
 ![gruposcrear](P2/crear-editar-grupo.png)
 
 ## PERFIL
+![perfil](P2/perfil.png)
 ![registrarBar](P2/register-bar.png)
 ![editarBar](P2/edit-bar.png)
 ![addEvento](P2/add-evento.png)
