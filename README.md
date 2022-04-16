@@ -78,12 +78,21 @@ amigo/compañero de profesión.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-A partir de lo que se ha visto en la práctica anterior podemos hacernos a la idea de retroalimentaciones que pueden ayudar a crear una nueva propuesta de app.
 
-
- Interesante | Críticas     
+ **Interesante** | **Críticas**     
 | ------------- | -------
-  Preguntas | Nuevas ideas
+Interacción social (Conocer gente nueva) | Seguridad: Dar mayor seguridad a las cuentas de los usuarios
+Ampliación de la cultura musical (Nuevos artistas / Nuevos estilos musicales) | Está destinada a personas que le guste socializar.
+Innovación ( No hay otras apps que ofrezcan estos contenidos) | Hay un poco de temor a que vayas a uno de los bares y que la propuesta que ofrecen no sea buena.
+Diseño atractivo |
+Los ítems de la app están bien localizados y es muy sencillo acceder a ellos. |
+|
+| **Preguntas** | **Nuevas ideas**
+¿Es complicado eliminar la cuenta de usuario? | Notificaciones de cuando se produzcan cambios en la app.
+¿Está garantizada la seguridad de mis datos personales? | Avisos de los protocolos COVID19 del local
+¿Hay alguna forma de guardar los eventos que te han gustado? | Añadir una opción que permita a los usuarios calificar los eventos a los que han asistido
+¿Hay alguna forma de que te notifique cuando sale un nuevo evento? | Tutorial de uso por primera vez
+
   
     
 La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica típica de Granada. Proponemos una aplicación que de a los turistas y a las personas locales de Granada un plan diferente a la hora de salir a comer o cenar. Tras investigar, la mayoría de residentes siempre suelen salir por Granada a tapear y se mueven por los mismos 3 o 4 bares. Por ello, nuestra aplicación intentará cambiar este comportamiento. Los dueños de los bares podrán registrar su bar y añadir los eventos que tendrán lugar cada día, permitiendo a los usuarios visualizar fácilmente dichos eventos junto al nombre del bar y un enlace al menú. Además, los usuarios (clientes) podrán realizar grupos en la aplicación permitiendo conocer gente y reunirse en el bar que se desee. Se tratará de mostrar en la aplicación bares y restaurantes con una propuesta tanto cultural como gastronómica atractiva para los usuarios.
