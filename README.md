@@ -108,12 +108,11 @@ La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica
  
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+## SITEMAP
+![sitemap](P2/sitemap.png)
 
- 
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+## LABELLING
+![labelling](P2/labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
