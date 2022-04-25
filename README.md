@@ -86,7 +86,7 @@ Ampliación de la cultura musical (Nuevos artistas / Nuevos estilos musicales) |
 Innovación ( No hay otras apps que ofrezcan estos contenidos) | Hay un poco de temor a que vayas a uno de los bares y que la propuesta que ofrecen no sea buena.
 Diseño atractivo |
 Los ítems de la app están bien localizados y es muy sencillo acceder a ellos. |
-| LIBRE
+| 
  **Preguntas** | **Nuevas ideas**
 ¿Es complicado eliminar la cuenta de usuario? | Notificaciones de cuando se produzcan cambios en la app.
 ¿Está garantizada la seguridad de mis datos personales? | Avisos de los protocolos COVID19 del local
