@@ -97,7 +97,7 @@ Eventos actualizados cada semana |
 
   
     
-La aplicación tendrá como fin dar una alternativa a la propuesta gastronómica típica de Granada. Proponemos una aplicación que de a los turistas y a las personas locales de Granada un plan diferente a la hora de salir a comer o cenar. Tras investigar, la mayoría de residentes siempre suelen salir por Granada a tapear y se mueven por los mismos 3 o 4 bares. Por ello, nuestra aplicación intentará cambiar este comportamiento. Los dueños de los bares podrán registrar su bar y añadir los eventos que tendrán lugar cada día, permitiendo a los usuarios visualizar fácilmente dichos eventos junto al nombre del bar y un enlace al menú. Además, los usuarios (clientes) podrán realizar grupos en la aplicación permitiendo conocer gente y reunirse en el bar que se desee. Se tratará de mostrar en la aplicación bares y restaurantes con una propuesta tanto cultural como gastronómica atractiva para los usuarios.
+La aplicación tendrá como fin dar una alternativa a la propuesta cultural del Carlota Braun. Proponemos una aplicación que exponga una Cultural Week en la que cada día de la semana se realizarían distintos eventos, con el fin de llamar la atención de los usuarios que quieren conocer culturas nuevas o usuarios extranjeros que quieran recordar de donde vienen.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
