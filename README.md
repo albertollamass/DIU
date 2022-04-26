@@ -119,14 +119,17 @@ La aplicación tendrá como fin dar una alternativa a la propuesta cultural del 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+## SPLASH SCREEN
+![splashScreen](P2/splash-screen.png)
+
 ## INICIO DE SESIÓN
 ![inicioSesion](P2/inicio-sesion.png)
 
 ## PÁGINA PRINCIPAL
 ![pagPrincipal](P2/pag-principal.png)
 
-## BAR
-![bar](P2/bar.png)
+## EVENTO
+![bar](P2/evento.png)
 
 ### Más información
 ![masinfo](P2/mas-info-evento.png)
@@ -134,9 +137,6 @@ La aplicación tendrá como fin dar una alternativa a la propuesta cultural del 
 ### Reseña y valoraciones
 ![reseña](P2/reseña.png)
 
-## CATEGORÍAS / BÚSQUEDA
-![catPrinc](P2/categoria-principal.png)
-![cat](P2/categoria.png)
 
 ## GRUPOS
 ![gruposPag](P2/pag-grupos.png)
@@ -145,9 +145,6 @@ La aplicación tendrá como fin dar una alternativa a la propuesta cultural del 
 
 ## PERFIL
 ![perfil](P2/perfil.png)
-![registrarBar](P2/register-bar.png)
-![editarBar](P2/edit-bar.png)
-![addEvento](P2/add-evento.png)
 
 ### Configuración
 ![configuracion](P2/configuracion.png)
