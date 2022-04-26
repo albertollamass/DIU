@@ -97,7 +97,7 @@ Eventos actualizados cada semana |
 
   
     
-La aplicación tendrá como fin dar una alternativa a la propuesta cultural del Carlota Braun. Proponemos una aplicación que exponga una Cultural Week en la que cada día de la semana se realizarían distintos eventos, con el fin de llamar la atención de los usuarios que quieren conocer culturas nuevas o usuarios extranjeros que quieran recordar de donde vienen.
+La aplicación tendrá como fin dar una alternativa a la propuesta cultural del Carlota Braun. Proponemos una aplicación que exponga una Cultural Week en la que cada día de la semana se realizarían distintos eventos, con el fin de llamar la atención de los usuarios que quieren conocer culturas nuevas o usuarios extranjeros que quieran recordar de donde vienen. 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
