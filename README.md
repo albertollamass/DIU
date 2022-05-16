@@ -161,6 +161,23 @@ La aplicación tendrá como fin dar una alternativa a la propuesta cultural del 
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+En el Moodboard se perfilan ideas, estilos para definir el las pautas principales del diseño visual, donde podemos destacar:
+
+* **Paleta de colores**
+Para obtener la paleta de colores hemos utilizado la herramienta !(StilifyMe)[http://stylifyme.com/]. Nos permite introducir la url de una página web y nos devuelve los colores principales utilizados por ella. En nuestro caso obtuvimos:
+!(PaletaColores)[P3/paletaColores.png]
+
+* **Imágenes inspiradoras**
+
+
+* **Tipo de fuente**
+
+
+* **Logotipo**
+<img src="P3/logoP3.png" width="200" height="200">
+Para diseñar el logotipo, hemos partido de los colores y el tipo de fuente usados en la página principal de Carlota Braun que nos ha permitido diseñar un imagotipo sencillo, acorde a la estética de la web y que engloba lo que se quiere transmitir con la _'Cultural Week'_. Se ha creado usando la herramienta Adobe Photoshop, utilizando iconos de los que hablaremos a continuación. La imagen permite usarse como imagen de perfil en redes sociales como Facebook, Twitter o Instagram.
+
+* **Iconos**
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
