@@ -11,7 +11,7 @@ Descripción:
 Propuesta de promoción del music bar & restaurant del Hostel Carlota Braun Granada que permite a los usuarios disfrutar junto a gente de gustos afines, de una semana al mes con comidas tradicionales de diversos países con el fin de variar del tapeo típico granadino.
 
 Logotipo: 
-![logotipo](P3/logoP3.png)
+![logotipo](P3/logoP3.png = 250x250)
 
 Miembros
  * :bust_in_silhouette:   Jose Jiménez Cazorla     :octocat:     
