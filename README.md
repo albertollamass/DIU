@@ -2,16 +2,16 @@
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
 Grupo: DIU2_nombreJA.  Curso: 2021/22 
-Updated: 21/3/2022
+Updated: 17/5/2022
 
-Proyecto: GroupBar Granada
+Proyecto: Cultural Week
 
 Descripción: 
 
-Propuesta de aplicación de bares y restaurantes que permite a los usuarios crear grupos para asistir a dichos bares con gente afín a los eventos que se realizan en ellos con el fin de variar del tapeo típico granadino.
+Propuesta de promoción del music bar & restaurant del Hostel Carlota Braun Granada que permite a los usuarios disfrutar junto a gente de gustos afines, de una semana al mes con comidas tradicionales de diversos países con el fin de variar del tapeo típico granadino.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![logotipo](P3/logoP3.png)
 
 Miembros
  * :bust_in_silhouette:   Jose Jiménez Cazorla     :octocat:     
