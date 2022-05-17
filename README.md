@@ -187,13 +187,36 @@ Para los iconos hemos utilizado los de la web [Ionic](https://ionic.io/ionicons)
 ----
 
 
->>> Plantear Landing Page 
+### PÁGINA 1: Portada atractiva al usuario con el logo de la propuesta y enlace a la descarga de la app
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![1](P3/pagina1.png)
+
+### PÁGINA 2: Información sobre la propuesta y enlace a web oficial de Carlota Braun
+
+![2](P3/pagina2.png)
+
+### PÁGINA 3: Imágenes de platos culturales para llamar atención de usuario
+
+![3](P3/pagina3.png)
+
+### PÁGINA 4: Formulario de contacto
+
+![4](P3/pagina4.png)
+
+### Simulacion
+![Sim](P3/sim.gif)
+
+![Método UX](img/guidelines.png)  3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### Patrones de diseño
+Para definir los patrones de diseño que utilizaremos hemos extraído información de https://material.io/ y https://ui-patterns.com/patterns.
+
+* Para que el usuario navegue entre las diferentes pestañas (perfil, grupos y home), se utiliza el patrón [Bottom Navigation Bar] (https://material.io/components/bottom-navigation).
+* Para el botón del tutorial se utiliza el patrón [Floating Action Button](https://material.io/components/buttons-floating-action-button).
+* Para movernos entre las partes de la pestaña home, perfil o grupos se utiliza el patrón [Tabs](https://material.io/components/tabs).
+Como patrones de búsqueda se ha utilizado: 
+* Para la búsqueda de idioma y de grupo se ha utilizado el patrón [Autocompletar](https://ui-patterns.com/patterns/Autocomplete) ya que facilita al usuario encontrar lo deseado y mejora su UX al no tener que escribir el nombre completo del grupo o idioma.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
