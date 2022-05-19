@@ -245,7 +245,8 @@ Para realizar el diseño, han sido de utilidad los wireframes realizados anterio
 | **Privacidad** | **Acerca de** | **Splash Screen** |
 | <img width="125" src="P3/privac.png"> | <img width="125" src="P3/acercade.png">| <img width="125" src="P3/splash.png"> |
 
-[![Alternate Text]({image-url})]("P3/app.mp4")
+### Simulacion
+Puedes consultar la simulacion [aquí](P3/app.mp4)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
