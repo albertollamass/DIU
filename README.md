@@ -248,6 +248,10 @@ Para realizar el diseño, han sido de utilidad los wireframes realizados anterio
 ### Simulacion
 Puedes consultar la simulacion [aquí](P3/app.mp4)
 
+
+https://user-images.githubusercontent.com/59082768/169403875-d5c7d256-437a-4def-abd7-bb61548a8a54.mp4
+
+
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
