@@ -260,6 +260,10 @@ https://user-images.githubusercontent.com/59082768/169403875-d5c7d256-437a-4def-
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
+https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-a222-a8780032071b.mp4
+
+
+
 ## Paso 4. Evaluación 
 
 
