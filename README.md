@@ -181,13 +181,10 @@ Para diseñar el logotipo, hemos partido de los colores y el tipo de fuente usad
 * **Iconos**
 
 Para los iconos hemos utilizado los de la web [Ionic](https://ionic.io/ionicons) ya que nos parecían simples y atractivos para todo el mundo. Entre los utilizados, tenemos:
-<img width="58" alt="Captura de Pantalla 2022-05-19 a las 9 16 41" src="https://user-images.githubusercontent.com/59082768/169233115-52f37c53-b34b-4b73-bfcd-0d643fe1e453.png">
 
-<img width="80" alt="Captura de Pantalla 2022-05-19 a las 9 17 22" src="https://user-images.githubusercontent.com/59082768/169233521-d7f5b2b2-6ecd-4c42-8c65-bd35f9dd73aa.png">
+<img width="58" alt="Captura de Pantalla 2022-05-19 a las 9 16 41" src="https://user-images.githubusercontent.com/59082768/169233115-52f37c53-b34b-4b73-bfcd-0d643fe1e453.png"> <img width="80" alt="Captura de Pantalla 2022-05-19 a las 9 17 22" src="https://user-images.githubusercontent.com/59082768/169233521-d7f5b2b2-6ecd-4c42-8c65-bd35f9dd73aa.png">
 
-<img width="48" alt="Captura de Pantalla 2022-05-19 a las 9 17 48" src="https://user-images.githubusercontent.com/59082768/169233763-578f314d-88e3-480c-bda0-d51519f2f3eb.png">
-
-<img width="52" alt="Captura de Pantalla 2022-05-19 a las 9 18 22" src="https://user-images.githubusercontent.com/59082768/169234163-2bd9d7c3-d440-4d53-820f-12ddab7741d8.png">
+<img width="48" alt="Captura de Pantalla 2022-05-19 a las 9 17 48" src="https://user-images.githubusercontent.com/59082768/169233763-578f314d-88e3-480c-bda0-d51519f2f3eb.png"> <img width="52" alt="Captura de Pantalla 2022-05-19 a las 9 18 22" src="https://user-images.githubusercontent.com/59082768/169234163-2bd9d7c3-d440-4d53-820f-12ddab7741d8.png">
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
