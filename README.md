@@ -158,19 +158,11 @@ La aplicación tendrá como fin dar una alternativa a la propuesta cultural del 
 
 ![MoodBoard](P3/moodboard.png)
 
-En el Moodboard se perfilan ideas, estilos para definir el las pautas principales del diseño visual, donde podemos destacar:
-
-* **Paleta de colores**
-Para obtener la paleta de colores hemos utilizado la herramienta [StilifyMe](http://stylifyme.com/). Nos permite introducir la url de una página web y nos devuelve los colores principales utilizados por ella. Como podemos comprobar visitando la web de [Carlota Braun](hostel-granada.es), tiene tonos rojizos, negros y grises por lo que utilizaremos dichos colores en el mockup. En nuestro caso obtuvimos:
-![PaletaColores](P3/paletaColores.png)
+En el Moodboard se perfilan ideas, estilos para definir el las pautas principales del diseño visual, donde podemos destacar. La información acerca de la paleta de colores y tipografía se encuentra en [Guidelines](#colores-y-tipografía):
 
 * **Imágenes inspiradoras**
 
 Las imágenes que nos han inspirado en el diseño del logo son imágenes que representan a diferentes países con sus respectivas culturas y platos típicos que acaban estando todos unidos en la misma mesa, representando esa mesa para nosotros la Cultural Week y la experiencia que vivirán los comensales.
-
-* **Tipo de fuente**
-
-Para seleccionar las fuentes, también utilizamos [StilifyMe](http://stylifyme.com/) aunque hemos decidido cambiar Montserrat que es la fuente que utiliza Carlota Braun para párrafos por  Oswald ya que nos parecía más apropiada.
 
 * **Logotipo**
 
@@ -210,8 +202,9 @@ Para los iconos hemos utilizado los de la web [Ionic](https://ionic.io/ionicons)
 ### Simulacion
 ![Sim](P3/sim.gif)
 
-![Método UX](img/guidelines.png)  3.c Guidelines
+![Método UX2](img/guidelines.png)  3.c Guidelines
 ----
+## Colores y tipografía
 * **Paleta de colores**
 
 Para obtener la paleta de colores hemos utilizado la herramienta [StilifyMe](http://stylifyme.com/). Nos permite introducir la url de una página web y nos devuelve los colores principales utilizados por ella. Como podemos comprobar visitando la web de [Carlota Braun](hostel-granada.es), tiene tonos rojizos, negros y grises por lo que utilizaremos dichos colores en el mockup. En nuestro caso obtuvimos:
@@ -220,6 +213,8 @@ Para obtener la paleta de colores hemos utilizado la herramienta [StilifyMe](htt
 * **Tipo de fuente**
 
 Para seleccionar las fuentes, también utilizamos [StilifyMe](http://stylifyme.com/) aunque hemos decidido cambiar Montserrat que es la fuente que utiliza Carlota Braun para párrafos por  Oswald ya que nos parecía más apropiada.
+
+> Si se desea encontrar más información acerca del logotipo, íconos e imágenes inspiradoras, se puede ver en el [MoodBoard](#paso-3-mi-ux-case-study-diseño)
 
 ### Patrones de diseño
 Para definir los patrones de diseño que utilizaremos hemos extraído información de https://material.io/ y https://ui-patterns.com/patterns.
@@ -232,9 +227,25 @@ Como patrones de búsqueda se ha utilizado:
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+Para realizar el diseño, han sido de utilidad los wireframes realizados anteriormente ya que básicamente sólo hemos tenido que cambiar el formato de las páginas.
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+| **Home** | **Iniciar sesión** | **Registrarse** |
+|---|---|---|
+| <img width="125" src="P3/home.png"> | <img width="125" src="P3/iniciar-sesion.png">| <img width="125" src="P3/registrarse.png"> |
+| **Evento día semana** | **Evento día semana** | **Todas las reseñas**|
+| <img width="125" src="P3/dia.png"> | <img width="125" src="P3/dia2.png">| <img width="125" src="P3/todas-las-resenias.png"> |
+| **Escribe tu reseña** | **Grupos** | **Crear grupo** |
+| <img width="125" src="P3/escribe-resenia.png"> | <img width="125" src="P3/grupos.png">| <img width="125" src="P3/crear-grupo.png"> |
+| **Grupo específico** | **Editar grupo** | **Perfil de usuario** |
+| <img width="125" src="P3/grupo2.png"> | <img width="125" src="P3/editar-grupo.png">| <img width="125" src="P3/perfil.png"> |
+| **Editar perfil** | **Mis reseñas** | **Mis eventos favoritos** |
+| <img width="125" src="P3/editar-perfil.png"> | <img width="125" src="P3/mis-resenias.png">| <img width="125" src="P3/eventos-favs.png"> | 
+| **Configuración** | **Idiomas** | **Notificaciones** |
+| <img width="125" src="P3/configuracion.png"> | <img width="125" src="P3/idioma.png">| <img width="125" src="P3/notif.png"> |
+| **Privacidad** | **Acerca de** | **Splash Screen** |
+| <img width="125" src="P3/privac.png"> | <img width="125" src="P3/acercade.png">| <img width="125" src="P3/splash.png"> |
 
+[![Alternate Text]({image-url})]("P3/app.mp4")
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
