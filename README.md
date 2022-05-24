@@ -282,10 +282,10 @@ https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | SUS Score |
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ---- |
-| 🧔 🇬🇧 John  | H / 35   | Empresario(Extranjero)  | Alta        | Siempre está centrado en su trabajo. No tiene hijos y le gusta pasar sus vacaciones descubriendo lugares nuevos. | Móvil       | A  |  |
-| 👵 Antonia  | M / 70   | Jubilado(Vacaciones)  | Baja       | Se aburre con la jubilación y le gusta mirar nuevos restaurantes para comer con su marido | Web-Móvil        | A |  |
+| 🧔 🇬🇧 John  | H / 35   | Empresario  | Alta        | Vive en Manchester. Siempre está centrado en su trabajo. No tiene hijos y le gusta pasar sus vacaciones descubriendo lugares nuevos. | Móvil       | A  |  |
+| 👵 Antonia  | M / 70   | Jubilado  | Baja       | Se aburre con la jubilación y le gusta mirar nuevos restaurantes para comer con su marido | Web-Móvil        | A |  |
 | 👨‍💻 Unai | H / 20   | Estudiante    | Alta        | Inquieto. No le gusta ir dos veces al mismo lugar. Desde pequeño es un aficionado a las nuevas tecnologías    | Web-Móvil      | B |  |
-| 😈 Clara | M / 40   | Grupo de amigos de vacaciones  | Media       | Fiestera. Le gusta subir todo lo que hace a sus redes sociales. Tiene poca paciencia | Web        | B |  |
+| 😈 Clara | M / 40   | Influencer  | Media       | Fiestera. Le gusta subir todo lo que hace a sus redes sociales. Tiene poca paciencia | Móvil        | B |  |
 
 * John: 
 * Antonia:
