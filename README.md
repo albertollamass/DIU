@@ -246,7 +246,7 @@ Para realizar el diseño, han sido de utilidad los wireframes realizados anterio
 | <img width="125" src="P3/privac.png"> | <img width="125" src="P3/acercade.png">| <img width="125" src="P3/splash.png"> |
 
 ### Simulacion
-Puedes consultar la simulacion [aquí](P3/app.mp4)
+Puedes consultar la simulacion [aquí](P3/CulturalWeek.pie)
 
 
 https://user-images.githubusercontent.com/59082768/169403875-d5c7d256-437a-4def-abd7-bb61548a8a54.mp4
