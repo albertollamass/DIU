@@ -280,12 +280,12 @@ https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | SUS Score |
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ---- |
-| 🧔 🇬🇧 John  | H / 35   | Empresario  | Alta        | Vive en Manchester. Siempre está centrado en su trabajo. No tiene hijos y le gusta pasar sus vacaciones descubriendo lugares nuevos. | Móvil       | A  |  |
-| 👵 Antonia  | M / 70   | Jubilado  | Baja       | Se aburre con la jubilación y le gusta mirar nuevos restaurantes para comer con su marido | Web-Móvil        | A |  |
-| 👨‍💻 Unai | H / 20   | Estudiante    | Alta        | Inquieto. No le gusta ir dos veces al mismo lugar. Desde pequeño es un aficionado a las nuevas tecnologías    | Web-Móvil      | B |  |
-| 😈 Clara | M / 40   | Influencer  | Media       | Fiestera. Le gusta subir todo lo que hace a sus redes sociales. Tiene poca paciencia | Móvil        | B |  |
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Perfil | Plataforma | TestA/B | SUS Score |
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---------- | ---- | ---- |
+| 🧔 🇬🇧 John  | H / 35   | Empresario  | Alta        | Vive en Manchester. Siempre está centrado en su trabajo. No tiene hijos y le gusta pasar sus vacaciones descubriendo lugares nuevos. | Tipo:5 Actividad:2 Emoción:5 | Móvil       | A  |  |
+| 👵 Antonia  | M / 70   | Jubilado  | Baja       | Se aburre con la jubilación y le gusta mirar nuevos restaurantes para comer con su marido | Tipo:5 Actividad:2 Emoción:5 | Web-Móvil        | A |  |
+| 👨‍💻 Unai | H / 20   | Estudiante    | Alta        | Inquieto. No le gusta ir dos veces al mismo lugar. Desde pequeño es un aficionado a las nuevas tecnologías | Tipo:5 Actividad:2 Emoción:5 | Web-Móvil      | B |  |
+| 😈 Clara | M / 40   | Influencer  | Media       | Fiestera. Le gusta subir todo lo que hace a sus redes sociales. Tiene poca paciencia | Tipo:5 Actividad:2 Emoción:5 | Móvil        | B |  |
 
 * John: 
 * Antonia:
