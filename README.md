@@ -287,10 +287,10 @@ https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-
 | 👨‍💻 Unai | H / 20   | Estudiante    | Alta        | Inquieto. No le gusta ir dos veces al mismo lugar. Desde pequeño es un aficionado a las nuevas tecnologías | Tipo:5 Actividad:2 Emoción:5 | Web-Móvil      | B | 87.5 |
 | 😈 Clara | M / 40   | Influencer  | Media       | Fiestera. Le gusta subir todo lo que hace a sus redes sociales. Tiene poca paciencia | Tipo:5 Actividad:2 Emoción:5 | Móvil        | A | 82.5 |
 
-* John: 
-* Antonia:
-* Unai:
-* Clara:
+* John: Empresario, le gusta viajar y conocer sitios nuevos. Tiene una alta experiencia en las nuevas tecnologías por lo que ha sido útil evaluar su experiencia para identificar algunos defectos que tiene la app relativos a la eficiencia. 
+* Antonia: Jubilada, tiene inexperiencia en las nuevas tecnologías pero ha sido de gran ayuda para verificar que la página carece de características que puedan ayudar a las personas mayores o con poca experiencia tecnológica.
+* Unai: Estudiante, es un amante apasionado de las nuevas tecnologías por lo que manejarse por este website no ha sido ningún problema para él. Le encanta conocer sitios nuevos y la música es una muy buena opción.
+* Clara: Influecer, sube todo lo que hace a sus redes sociales e ir a una Cultural Week da muchos followers. Su navegación por la aplicación ha sido buena y ha podido concretar una cita con sus compis para pasarla genial.
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
