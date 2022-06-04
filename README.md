@@ -275,7 +275,9 @@ https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Para la creación de los usuarios ficticios, se ha aplicado role playing mediante una tirada aleatoria de los siguientes dados.
 
+![dados](P4/roleplay.png)
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Perfil | Plataforma | TestA/B | SUS Score |
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---------- | ---- | ---- |
