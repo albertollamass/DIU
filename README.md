@@ -271,14 +271,11 @@ https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+**La música como terapia** [(DIU2.Unknown)](https://github.com/luciasalamanca/DIU) es un microsite cuyo objetivo es potenciar la idea de music bar del hostel Carlota Braun en Granada. Proponen que el hostel, no sólo sea reconocido por su alojamiento, sino también por la música en directo, intentando atraer a clientes jóvenes. El microsite, puede ser utilizado por cualquiera, sinn la necesidad de estar registrado, ofreciendo a los usuarios información acerca del menú y los proximos eventos.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Perfil | Plataforma | TestA/B | SUS Score |
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---------- | ---- | ---- |
@@ -296,21 +293,31 @@ https://user-images.githubusercontent.com/59082768/169405826-76fdc6b2-480e-4a40-
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+## System Usability Scale Test (SUS)
+![capturaSUS](P4/capturaSUS.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+### Enlaces al test de usabilidad System Usability Scale Test
+
+[System-Usability-Scale-Test.pdf](P4/cuestionario-SUS.pdf)
+[System-Usability-Scale-Test.xlsx](P4/cuestionario-SUS.xlsx)
+
+## Valoración personal
+Se ha llevado a cabo la evaluación realizando el System Usability Scale Test (SUS) a través del cual se han obtenido resultados comparativos entre dos prototipos.
+Los problemas más graves detectados tienen que ver con la falta de organización en algunas páginas del sitio y la dificultad para volver a la página de inicio. Al diseño actual, le falta en la página de la carta un poco de orden ya que aparecen muchos platos, pero no se especifica ni el precio, ni el tipo de plato. Además, una vez salimos de la página de inicio, es poco intuitivo volver a ella ya que sólo se permite pulsando en la imagen del logo, en vez del logo y la letra. 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+## Enlaces al Usability Report
+[P4_UsabReport_MusicaComoTerapia_doneby_DIU2_nombreJA.pdf](P4/P4_UsabReport_MusicaComoTerapia_doneby_DIU2_nombreJA.pdf)
+[P4_UsabReport_MusicaComoTerapia_doneby_DIU2_nombreJA.docx](P4/P4_UsabReport_MusicaComoTerapia_doneby_DIU2_nombreJA.docx)
 
-
-
->>> Valoración personal 
+## Valoración personal 
+El proyecto parte de una muy buena idea, potenciar la visibilidad del hostel mediante la música. El proyecto, se ha desarrollado de forma correcta, destacando el moodboard y la selecciónn de colores. El logotipo también resulta bastante original ya que combina una copa con los pulsadores de una trompeta/saxofón, resultando en una combinación simple pero consistente. Con el fin de mejorar el microsite, se proponen las siguientes mejoras:
+* Aumento del tamaño de la letra, ya que no se lee con suficiente claridad.
+* Reestructura de la página de la carta.
+* Inclusión de más iconos, en especial en la barra de navegación, para mejorar la accesibilidad de la web.
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
@@ -332,9 +339,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+En conclusión, las prácticas nos han resultado útiles y nos han dado la perspectiva de que una página web o una aplicación, no trata sólo de programarla, sino que una parte importante, es el diseño y la experiencia de los usuarios. De esta forma, partiendo de un caso base, hemos podido adquirir experiencia para nuestro futuro profesional, aprendiendo sobre el uso de herramientas como Protopie y diferentes diagramas que pueden servirnos de brainstorming. Hemos podido además calificar otros diseños y ser autocríticos con nuestro propio diseño. Por ello, consideramos que, de cara a nuestro futuro laboral, las prácticas nos han aportado otra visión para realizar nuestras propias aplicaciones, que hemos podido reflejar, tanto en estas prácticas, como en prácticas de otras asignaturas como Sistemas de Información Basados en Web o Desarrollo Software.
 
 
 
